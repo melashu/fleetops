@@ -12,9 +12,9 @@ fleet-ops:
     category: Category
     city: City
     coordinates: Coordinates
-    cost: Cost
-    code: Code
-    country: Country
+    cost: Waga
+    code: meleya
+    country: Hager
     config: Config
     created-at: Created At
     date-created: Date Created
