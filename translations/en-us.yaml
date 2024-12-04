@@ -12,9 +12,9 @@ fleet-ops:
     category: Category
     city: City
     coordinates: Coordinates
-    cost: Cost
+    cost: ዋጋ
     code: Code
-    country: Country
+    country: ሀገር
     config: Config
     created-at: Created At
     date-created: Date Created
